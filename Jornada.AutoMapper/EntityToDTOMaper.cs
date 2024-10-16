@@ -1,6 +1,8 @@
-﻿using AutoMapper;
-using System.Globalization;
+using AutoMapper;
 using Jornada.Entities.DTO;
+using Jornada.Entities.Entity;
+using System.Globalization;
+
 
 namespace Jornada.AutoMapper
 {
