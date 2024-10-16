@@ -10,9 +10,7 @@ namespace Jornada.AutoMapper
             var culture = new CultureInfo("pt-BR");
             culture.NumberFormat.NumberDecimalSeparator = ",";
 
-
-
-
+            CreateMap<Aluno,AlunoDTO>();
 
         }
     }
