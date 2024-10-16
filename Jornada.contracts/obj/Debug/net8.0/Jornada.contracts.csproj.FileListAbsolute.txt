@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Jornada.contracts\bin\Debug\net8.0\Jornada.contracts.deps.json
+C:\Users\User\source\repos\Jornada.contracts\bin\Debug\net8.0\Jornada.contracts.dll
+C:\Users\User\source\repos\Jornada.contracts\bin\Debug\net8.0\Jornada.contracts.pdb
+C:\Users\User\source\repos\Jornada.contracts\bin\Debug\net8.0\Jornada.Entities.dll
+C:\Users\User\source\repos\Jornada.contracts\bin\Debug\net8.0\Jornada.Entities.pdb
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.AssemblyInfo.cs
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada..9CA106EF.Up2Date
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.dll
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\refint\Jornada.contracts.dll
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\Jornada.contracts.pdb
+C:\Users\User\source\repos\Jornada.contracts\obj\Debug\net8.0\ref\Jornada.contracts.dll

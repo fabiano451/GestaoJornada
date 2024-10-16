@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\JornadaAcademica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2179297-F30D-45D4-9B1A-6A7BB117172E}|JornadaAcademica.csproj|c:\\users\\user\\source\\repos\\jornadaacademica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2179297-F30D-45D4-9B1A-6A7BB117172E}|JornadaAcademica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5890F0-4960-4A85-8245-027DD64FC39C}|..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj|c:\\users\\user\\source\\repos\\jornada.automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5890F0-4960-4A85-8245-027DD64FC39C}|..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj|c:\\users\\user\\source\\repos\\jornada.automapper\\jornada.automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5890F0-4960-4A85-8245-027DD64FC39C}|..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj|c:\\users\\user\\source\\repos\\jornada.automapper\\entitytodtomaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5890F0-4960-4A85-8245-027DD64FC39C}|..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj|c:\\users\\user\\source\\repos\\jornada.automapper\\dtotoentitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26DDB41-A8B0-4638-B8FB-C384E66935FB}|..\\Jornada.contracts\\Jornada.contracts.csproj|c:\\users\\user\\source\\repos\\jornada.contracts\\iservice\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144E75-3ADB-4692-A8BF-EB065FF55FBB}|..\\Jornada.Entities\\Jornada.Entities.csproj|c:\\users\\user\\source\\repos\\jornada.entities\\dto\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F2609-96E7-49B6-AE76-144527780AD5}|..\\Jornada.Repository\\Jornada.Repository.csproj|c:\\users\\user\\source\\repos\\jornada.repository\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jornada.AutoMapper",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj",
+              "RelativeDocumentMoniker": "..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj",
+              "RelativeToolTip": "..\\Jornada.AutoMapper\\Jornada.AutoMapper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T01:36:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityToDTOMaper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\EntityToDTOMaper.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.AutoMapper\\EntityToDTOMaper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\EntityToDTOMaper.cs",
+              "RelativeToolTip": "..\\Jornada.AutoMapper\\EntityToDTOMaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:28:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOToEntityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\DTOToEntityMapper.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.AutoMapper\\DTOToEntityMapper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\DTOToEntityMapper.cs",
+              "RelativeToolTip": "..\\Jornada.AutoMapper\\DTOToEntityMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:28:10.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.AutoMapper\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "..\\Jornada.AutoMapper\\AutoMapperConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:28:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JornadaAcademica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JornadaAcademica\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:24:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.Entities\\DTO\\AlunoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.Entities\\DTO\\AlunoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.Entities\\DTO\\AlunoDTO.cs",
+              "RelativeToolTip": "..\\Jornada.Entities\\DTO\\AlunoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:33:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.contracts\\IService\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.contracts\\IService\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.contracts\\IService\\IAlunoService.cs",
+              "RelativeToolTip": "..\\Jornada.contracts\\IService\\IAlunoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:29:58.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jornada.Repository\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Jornada.Repository\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jornada.Repository\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "..\\Jornada.Repository\\Repository\\AlunoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:16:29.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

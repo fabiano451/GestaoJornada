@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Jornada.Tests\bin\Debug\net8.0\Jornada.Tests.deps.json
+C:\Users\User\source\repos\Jornada.Tests\bin\Debug\net8.0\Jornada.Tests.dll
+C:\Users\User\source\repos\Jornada.Tests\bin\Debug\net8.0\Jornada.Tests.pdb
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.AssemblyInfo.cs
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.dll
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\refint\Jornada.Tests.dll
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\Jornada.Tests.pdb
+C:\Users\User\source\repos\Jornada.Tests\obj\Debug\net8.0\ref\Jornada.Tests.dll

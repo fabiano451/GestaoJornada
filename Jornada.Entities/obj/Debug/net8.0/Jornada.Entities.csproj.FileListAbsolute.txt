@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Jornada.Entities\bin\Debug\net8.0\Jornada.Entities.deps.json
+C:\Users\User\source\repos\Jornada.Entities\bin\Debug\net8.0\Jornada.Entities.dll
+C:\Users\User\source\repos\Jornada.Entities\bin\Debug\net8.0\Jornada.Entities.pdb
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.dll
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\refint\Jornada.Entities.dll
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\Jornada.Entities.pdb
+C:\Users\User\source\repos\Jornada.Entities\obj\Debug\net8.0\ref\Jornada.Entities.dll

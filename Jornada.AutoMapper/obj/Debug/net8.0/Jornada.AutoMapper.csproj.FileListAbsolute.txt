@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Jornada.AutoMapper\bin\Debug\net8.0\Jornada.AutoMapper.deps.json
+C:\Users\User\source\repos\Jornada.AutoMapper\bin\Debug\net8.0\Jornada.AutoMapper.dll
+C:\Users\User\source\repos\Jornada.AutoMapper\bin\Debug\net8.0\Jornada.AutoMapper.pdb
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.AssemblyInfo.cs
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.dll
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\refint\Jornada.AutoMapper.dll
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\Jornada.AutoMapper.pdb
+C:\Users\User\source\repos\Jornada.AutoMapper\obj\Debug\net8.0\ref\Jornada.AutoMapper.dll
